@@ -1,0 +1,17 @@
+<view>
+  <image src="../img/icon.png" style="weight: 140rpx; height: 223rpx; border-radius: 50%; overflow: hidden; width: 229rpx; display: inline-block; box-sizing: border-box; position: relative; left: 261rpx; top: 0rpx">
+  </image>
+</view>
+
+<view>
+  <text style="font:#ff0000;">
+    私は学校に通っていた2年半の高雲天です。よろしくお願いします。
+  </text>
+</view>
+<view>
+  <text>
+    以下は私の自己紹介ビデオです
+  </text>
+  <image src="../img/IMG_3159.PNG" style="width: 749rpx; height: 957rpx; display: inline-block; box-sizing: border-box">
+  </image>
+</view>
